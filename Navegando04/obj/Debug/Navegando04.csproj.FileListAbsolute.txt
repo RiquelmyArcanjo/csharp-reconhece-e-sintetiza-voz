@@ -1,0 +1,50 @@
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim01Aula04\Navegando04\Navegando04\bin\Debug\BDLivros.mdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim01Aula04\Navegando04\Navegando04\bin\Debug\Navegando04.exe.config
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim01Aula04\Navegando04\Navegando04\bin\Debug\Navegando04.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim01Aula04\Navegando04\Navegando04\bin\Debug\Navegando04.pdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim01Aula04\Navegando04\Navegando04\obj\Debug\Navegando04.csprojAssemblyReference.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim01Aula04\Navegando04\Navegando04\obj\Debug\Navegando04.Form1.resources
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim01Aula04\Navegando04\Navegando04\obj\Debug\Navegando04.Properties.Resources.resources
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim01Aula04\Navegando04\Navegando04\obj\Debug\Navegando04.csproj.GenerateResource.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim01Aula04\Navegando04\Navegando04\obj\Debug\Navegando04.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim01Aula04\Navegando04\Navegando04\obj\Debug\Navegando04.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim01Aula04\Navegando04\Navegando04\obj\Debug\Navegando04.pdb
+D:\DOWNLOADS HD\Projeto_Navegando_Com_Reconhecimento_de_Voz\Navegando03\Navegando04\bin\Debug\BDLivros.mdb
+D:\DOWNLOADS HD\Projeto_Navegando_Com_Reconhecimento_de_Voz\Navegando03\Navegando04\bin\Debug\Navegando04.exe.config
+D:\DOWNLOADS HD\Projeto_Navegando_Com_Reconhecimento_de_Voz\Navegando03\Navegando04\bin\Debug\Navegando04.exe
+D:\DOWNLOADS HD\Projeto_Navegando_Com_Reconhecimento_de_Voz\Navegando03\Navegando04\bin\Debug\Navegando04.pdb
+D:\DOWNLOADS HD\Projeto_Navegando_Com_Reconhecimento_de_Voz\Navegando03\Navegando04\obj\Debug\Navegando04.csprojAssemblyReference.cache
+D:\DOWNLOADS HD\Projeto_Navegando_Com_Reconhecimento_de_Voz\Navegando03\Navegando04\obj\Debug\Navegando04.Form1.resources
+D:\DOWNLOADS HD\Projeto_Navegando_Com_Reconhecimento_de_Voz\Navegando03\Navegando04\obj\Debug\Navegando04.Properties.Resources.resources
+D:\DOWNLOADS HD\Projeto_Navegando_Com_Reconhecimento_de_Voz\Navegando03\Navegando04\obj\Debug\Navegando04.csproj.GenerateResource.cache
+D:\DOWNLOADS HD\Projeto_Navegando_Com_Reconhecimento_de_Voz\Navegando03\Navegando04\obj\Debug\Navegando04.csproj.CoreCompileInputs.cache
+D:\DOWNLOADS HD\Projeto_Navegando_Com_Reconhecimento_de_Voz\Navegando03\Navegando04\obj\Debug\Navegando04.exe
+D:\DOWNLOADS HD\Projeto_Navegando_Com_Reconhecimento_de_Voz\Navegando03\Navegando04\obj\Debug\Navegando04.pdb
+D:\DOWNLOADS HD\Projeto_Navegando_Com_Reconhecimento_de_Voz\Navegando03\Navegando04\bin\Debug\Microsoft.Speech.dll
+D:\DOWNLOADS HD\Projeto_Navegando_Com_Reconhecimento_de_Voz\Navegando03\Navegando04\obj\Debug\Navegando04.csproj.CopyComplete
+D:\Main\DOWNLOADS HD\Projeto_Navegando_Com_Reconhecimento_de_Voz\Navegando03\Navegando04\bin\Debug\BDLivros.mdb
+D:\Main\DOWNLOADS HD\Projeto_Navegando_Com_Reconhecimento_de_Voz\Navegando03\Navegando04\bin\Debug\Navegando04.exe.config
+D:\Main\DOWNLOADS HD\Projeto_Navegando_Com_Reconhecimento_de_Voz\Navegando03\Navegando04\bin\Debug\Navegando04.exe
+D:\Main\DOWNLOADS HD\Projeto_Navegando_Com_Reconhecimento_de_Voz\Navegando03\Navegando04\bin\Debug\Navegando04.pdb
+D:\Main\DOWNLOADS HD\Projeto_Navegando_Com_Reconhecimento_de_Voz\Navegando03\Navegando04\bin\Debug\Microsoft.Speech.dll
+D:\Main\DOWNLOADS HD\Projeto_Navegando_Com_Reconhecimento_de_Voz\Navegando03\Navegando04\obj\Debug\Navegando04.csprojAssemblyReference.cache
+D:\Main\DOWNLOADS HD\Projeto_Navegando_Com_Reconhecimento_de_Voz\Navegando03\Navegando04\obj\Debug\Navegando04.Form1.resources
+D:\Main\DOWNLOADS HD\Projeto_Navegando_Com_Reconhecimento_de_Voz\Navegando03\Navegando04\obj\Debug\Navegando04.Properties.Resources.resources
+D:\Main\DOWNLOADS HD\Projeto_Navegando_Com_Reconhecimento_de_Voz\Navegando03\Navegando04\obj\Debug\Navegando04.csproj.GenerateResource.cache
+D:\Main\DOWNLOADS HD\Projeto_Navegando_Com_Reconhecimento_de_Voz\Navegando03\Navegando04\obj\Debug\Navegando04.csproj.CoreCompileInputs.cache
+D:\Main\DOWNLOADS HD\Projeto_Navegando_Com_Reconhecimento_de_Voz\Navegando03\Navegando04\obj\Debug\Navegando04.csproj.CopyComplete
+D:\Main\DOWNLOADS HD\Projeto_Navegando_Com_Reconhecimento_de_Voz\Navegando03\Navegando04\obj\Debug\Navegando04.exe
+D:\Main\DOWNLOADS HD\Projeto_Navegando_Com_Reconhecimento_de_Voz\Navegando03\Navegando04\obj\Debug\Navegando04.pdb
+D:\Main\Estudo\GitHub\SpeechRecognition_e_BindingComponents\Navegando04\bin\Debug\BDLivros.mdb
+D:\Main\Estudo\GitHub\SpeechRecognition_e_BindingComponents\Navegando04\bin\Debug\Microsoft.Speech.dll
+D:\Main\Estudo\GitHub\SpeechRecognition_e_BindingComponents\Navegando04\obj\Debug\Navegando04.csprojAssemblyReference.cache
+D:\Main\Estudo\GitHub\SpeechRecognition_e_BindingComponents\Navegando04\obj\Debug\Navegando04.Form1.resources
+D:\Main\Estudo\GitHub\SpeechRecognition_e_BindingComponents\Navegando04\obj\Debug\Navegando04.Properties.Resources.resources
+D:\Main\Estudo\GitHub\SpeechRecognition_e_BindingComponents\Navegando04\obj\Debug\Navegando04.csproj.GenerateResource.cache
+D:\Main\Estudo\GitHub\SpeechRecognition_e_BindingComponents\Navegando04\obj\Debug\Navegando04.csproj.CoreCompileInputs.cache
+D:\Main\Estudo\GitHub\SpeechRecognition_e_BindingComponents\Navegando04\obj\Debug\Navegando04.csproj.CopyComplete
+D:\Main\Estudo\GitHub\SpeechRecognition_e_BindingComponents\Navegando04\obj\Debug\Navegando04.exe
+D:\Main\Estudo\GitHub\SpeechRecognition_e_BindingComponents\Navegando04\obj\Debug\Navegando04.pdb
+D:\Main\Estudo\GitHub\SpeechRecognition_e_BindingComponents\Navegando04\bin\Debug\Navegando04.exe.config
+D:\Main\Estudo\GitHub\SpeechRecognition_e_BindingComponents\Navegando04\bin\Debug\Navegando04.exe
+D:\Main\Estudo\GitHub\SpeechRecognition_e_BindingComponents\Navegando04\bin\Debug\Navegando04.pdb
